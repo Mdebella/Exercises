@@ -14,7 +14,7 @@ In = input('Enter word here: ')
 def read(In):
 
     #Assigns word dictionary text file path to variable
-    f = r'C:\Users\Frys Electronics\Desktop\Code Practice\words.txt'
+    f = r''
 
     #Creates a tuple of the input word
     word = tuple(str(In))
